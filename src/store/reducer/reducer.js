@@ -9,7 +9,7 @@ const INITIAL_STATE = {
     recipientID: '',
     msgs: [],
     portfolios: [{
-        userName: 'Shehzad', profession: 'ssuet', apperance: 'ncjnjcn'
+        userName: 'Shahryar', profession: 'ssuet', apperance: 'ncjnjcn'
     },
     {
         userName: 'Ali', profession: 'ku', apperance: 'uiuii'
